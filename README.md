@@ -1,0 +1,2 @@
+# bestiarypage-necro
+bestiary page
