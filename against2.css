@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'against';
-    src: url('https://dl.dropboxusercontent.com/scl/fi/5b3931oksxqt9eaeqjmr1/against-Regular.woff2?rlkey=hbehoayp6y0wccfmq9xt2s4rx&dl=0') format('woff2'),
-        url('https://dl.dropboxusercontent.com/scl/fi/7np5z7b1utlpx5501azp9/against-Regular.woff?rlkey=osssktm06qtnriuhlgxsvyv9d&dl=0') format('woff');
+    src: url('/against-Regular.woff2') format('woff2'),
+        url('/against-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
